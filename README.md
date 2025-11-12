@@ -1,1 +1,3 @@
 The "Neural Barcode.mlappinstall" file is a MATLAB installer file for the MATLAB GUI application of the "Markovian Neural Barcode" technique for mesoscale cortical imaging analysis. There is an in-app tab that has access to the application "READ ME" file that contains all the application specific information. This application was created in MATLAB 2024a. 
+
+https://doi.org/10.5281/zenodo.17594529
